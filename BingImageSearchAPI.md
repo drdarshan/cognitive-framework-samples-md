@@ -1,13 +1,13 @@
 ---
-title:Call and response - Python Quickstart for Azure Cognitive Services, Bing Image Search API | Microsoft Docs
-description:Get information and code samples to help you quickly get started using the Bing Image Search API in Microsoft Cognitive Services on Azure.
-services:cognitive-services
-author:jerrykindall
-ms.service:cognitive-services
-ms.technology:bing-search
-ms.topic:article
-ms.date:9/21/2017
-ms.author:v-jerkin
+title: Call and response - Python Quickstart for Azure Cognitive Services, Bing Image Search API | Microsoft Docs
+description: Get information and code samples to help you quickly get started using the Bing Image Search API in Microsoft Cognitive Services on Azure.
+services: cognitive-services
+author: jerrykindall
+ms.service: cognitive-services
+ms.technology: bing-search
+ms.topic: article
+ms.date: 9/21/2017
+ms.author: v-jerkin
 ---
 
 # Call and response: your first Bing Image Search query in Python
