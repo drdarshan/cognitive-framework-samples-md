@@ -1,13 +1,13 @@
 ---
-title:Python Quickstart for Azure Cognitive Services, Text Analytics API | Microsoft Docs
-description:Get information and code samples to help you quickly get started using the Text Analytics API in Microsoft Cognitive Services on Azure.
-services:cognitive-services
-author:luiscabrer
-ms.service:cognitive-services
-ms.technology:text-analytics
-ms.topic:article
-ms.date:08/24/2017
-ms.author:luisca
+title: Python Quickstart for Azure Cognitive Services, Text Analytics API | Microsoft Docs
+description: Get information and code samples to help you quickly get started using the Text Analytics API in Microsoft Cognitive Services on Azure.
+services: cognitive-services
+author: luiscabrer
+ms.service: cognitive-services
+ms.technology: text-analytics
+ms.topic: article
+ms.date: 08/24/2017
+ms.author: luisca
 ---
 
 # Quickstart for Text Analytics API with Python 
