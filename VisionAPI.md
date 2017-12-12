@@ -1,14 +1,14 @@
 ---
-title:Computer Vision API Python quick start | Microsoft Docs
-description:Get information and code samples to help you quickly get started using Python and the Computer Vision API in Microsoft Cognitive Services.
-services:cognitive-services
-author:JuliaNik
-manager:ytkuo
-ms.service:cognitive-services
-ms.technology:computer-vision
-ms.topic:article
-ms.date:06/12/2017
-ms.author:juliakuz
+title: Computer Vision API Python quick start | Microsoft Docs
+description: Get information and code samples to help you quickly get started using Python and the Computer Vision API in Microsoft Cognitive Services.
+services: cognitive-services
+author: JuliaNik
+manager: ytkuo
+ms.service: cognitive-services
+ms.technology: computer-vision
+ms.topic: article
+ms.date: 06/12/2017
+ms.author: juliakuz
 ---
 
 # Computer Vision Python Quick Starts
