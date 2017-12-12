@@ -1,6 +1,6 @@
 ---
 title: Call and response - Python Quickstart for Azure Cognitive Services, Bing Web Search API | Microsoft Docs
-description:Get information and code samples to help you quickly get started using the Bing Web Search API in Microsoft Cognitive Services on Azure.
+description: Get information and code samples to help you quickly get started using the Bing Web Search API in Microsoft Cognitive Services on Azure.
 services: cognitive-services
 author: jerrykindall
 ms.service: cognitive-services
